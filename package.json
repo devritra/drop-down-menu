@@ -35,7 +35,7 @@
     "bugs": {
         "url": "https://github.com/devritra/Template-Repository/issues"
     },
-    "homepage": "https://github.com/devritra/Template-Repository#readme",
+    "homepage": "",
     "devDependencies": {
         "@eslint/js": "^9.39.1",
         "css-loader": "^7.1.2",
