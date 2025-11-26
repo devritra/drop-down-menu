@@ -1,7 +1,7 @@
 {
-    "name": "template-repository",
-    "version": "1.0.0",
-    "description": "My template repo which i use as the starting template for my projects",
+    "name": "@aritra-saha/drop-down-menu",
+    "version": "1.0.2",
+    "description": "A package that contains js logics for drop down menu",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,10 +15,22 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/devritra/Template-Repository.git"
+        "url": "git+https://github.com/devritra/drop-down-menu"
     },
-    "keywords": [],
-    "author": "",
+    "keywords": [
+        "drop down",
+        "drop-down",
+        "drop_down",
+        "drop down menu",
+        "drop-down-menu",
+        "drop_down-menu",
+        "Aritra Saha",
+        "aritra saha",
+        "aritra",
+        "@aritra",
+        "@aritra-saha"
+    ],
+    "author": "Aritra Saha",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/devritra/Template-Repository/issues"

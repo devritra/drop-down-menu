@@ -1,4 +1,3 @@
-import './style.css';
 import { dropDownEvent, setDropDownContent } from './dropDown';
 
 const dropDownBtn = document.querySelector('.drop_down_btn');

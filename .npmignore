@@ -1,0 +1,12 @@
+node_modules
+src
+.gitignore
+.prettierignore
+.prettierrc
+eslint.config.mjs
+package.json
+package-lock.json
+README.md
+webpack.common.js
+webpack.dev.js
+webpack.prod.js
