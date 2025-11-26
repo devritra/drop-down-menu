@@ -1,6 +1,6 @@
 {
     "name": "@aritra-saha/drop-down-menu",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A package that contains js logics for drop down menu",
     "main": "index.js",
     "scripts": {
